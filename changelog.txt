@@ -1,0 +1,33 @@
+*******************************
+*   change Log NevuxAB 1.4.3  *
+*******************************
+xx-xx-xx  - Added New Default Theme
+10-12-07 - Updated Current users online message for users not online.
+10-12-07 - fixed default templates.
+10-12-07 - Added a Captcha to the registration page.
+10-12-07 - Added timezone field to the registration.
+10-12-07 - Fixed spacing with logged in message.
+10-12-07 - Added pagination urls near the top of a topic.  So its easier to navigate and so you don't have to scroll.
+10-24-07 - Updated Footer.tpl error
+10-24-07 - Added new global function "imessage()"
+10-24-07 - Updated global functions "finished","pageerror","offline" to work with the new "imessage" function.
+10-24-07 - Added Topic details on each post page, so that you can lock,edit ,sticky, open , unsticky any topic from any page.
+10-29-07 - Added Javascript to the bbcode so its quicker to add.
+11-01-07 - Fixed Cpanel to work with Template System
+11-01-07 - Updated cpanel change password so it removes your session before updating password.
+11-01-07 - Rewrote mode.php updated old code, cleaned up most of the coding, runs a bit more smoother.  Used switch instead of if statements.
+11-01-07 - Updated Pinned topics text so it won't show the Normal reply bar if there aren't any.
+11-01-07 - Updated Locked buttons positioning.
+11-01-07 - Updated BBCode Javascript so it focuses in the text area.
+11-02-07 - Fixed captcha to work with windows and linux.
+11-02-07 - Added total post per topic in the admin control panel forum settings.
+11-02-07 - Added change user email to the user control panel.
+11-02-07 - Added link to topic|forum in navigation when adding a new topic|reply.
+11-02-07 - Updated Admin Panel to work with the new skin.
+11-02-07 - Added profile page to view basic user information, more features will be added in the next update
+11-02-07 - Added forum offline in admin panel, added offline reason, updated user permissions so you can set group permissions of who can view offline board.
+11-03-07 - Added pagination to the topics in the forum view page
+11-03-07 - Added total topics per page in a forum feature in the administration configuration.
+11-03-07 - Fixed date when adding new topic, date field was left blank.
+11-03-07 - Added a simple search feature for the users to take advantage of, better version will come in the near future
+11-03-07 - Added forum permissions for individual forums so certain groups can view topics, or post.
